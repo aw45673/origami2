@@ -1,0 +1,26 @@
+img{
+    border:solid;
+    border-radius:15px;
+    border-color:rgb(207, 24, 85);
+}
+body{
+    background-color: lavenderblush;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item{
+    width: 550px;
+}
+.header{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.bodyimg p{
+    display:flex;
+    justify-content: center;
+
+}
